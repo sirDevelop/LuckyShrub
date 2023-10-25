@@ -1,0 +1,11 @@
+{
+  "name": "luckyshrub",
+  "version": "1.0.0",
+  "description": "A personal website for a client called LuckyShrub",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass — watch scss -o css"
+  },
+  "author": "Cheng Wang",
+  "license": "MIT"
+}
